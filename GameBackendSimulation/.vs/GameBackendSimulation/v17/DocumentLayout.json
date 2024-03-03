@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\concrete\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\concrete\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\abstracts\\igamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\abstracts\\igamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\concrete\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\concrete\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\dataacces\\abstracts\\igamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:dataacces\\abstracts\\igamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\dataacces\\concrete\\gamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:dataacces\\concrete\\gamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\concrete\\edevlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\concrete\\edevlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\abstracts\\iedevlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\abstracts\\iedevlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\abstracts\\igamermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\abstracts\\igamermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\concrete\\gamermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\concrete\\gamermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\dataacces\\concrete\\gamerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:dataacces\\concrete\\gamerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\abstracts\\isalesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\abstracts\\isalesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\entities\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:entities\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\dataacces\\concrete\\campaigndal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:dataacces\\concrete\\campaigndal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\concrete\\campaignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\concrete\\campaignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\business\\abstracts\\icampaignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:business\\abstracts\\icampaignmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\dataacces\\abstracts\\icampaigndal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:dataacces\\abstracts\\icampaigndal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|c:\\users\\mahmu\\onedrive\\masa\u00FCst\u00FC\\c#\\interface\\gamebackendsimulation\\dataacces\\abstracts\\igamerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57ED322-367A-46D2-8044-10FFF95D44B4}|GameBackendSimulation.csproj|solutionrelative:dataacces\\abstracts\\igamerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Entities\\Game.cs",
+              "RelativeToolTip": "Entities\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:11:41.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISalesManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\ISalesManager.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\ISalesManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\ISalesManager.cs",
+              "RelativeToolTip": "Business\\Abstracts\\ISalesManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:06:24.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\SalesManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\SalesManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\SalesManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\SalesManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:06:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICampaignManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\ICampaignManager.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\ICampaignManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\ICampaignManager.cs",
+              "RelativeToolTip": "Business\\Abstracts\\ICampaignManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:02:04.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CampaignManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\CampaignManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CampaignManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\CampaignManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CampaignManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T07:01:54.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICampaignDal.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Abstracts\\ICampaignDal.cs",
+              "RelativeDocumentMoniker": "DataAcces\\Abstracts\\ICampaignDal.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Abstracts\\ICampaignDal.cs",
+              "RelativeToolTip": "DataAcces\\Abstracts\\ICampaignDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:57:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CampaignDal.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Concrete\\CampaignDal.cs",
+              "RelativeDocumentMoniker": "DataAcces\\Concrete\\CampaignDal.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Concrete\\CampaignDal.cs",
+              "RelativeToolTip": "DataAcces\\Concrete\\CampaignDal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:57:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Campaign.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Entities\\Campaign.cs",
+              "RelativeDocumentMoniker": "Entities\\Campaign.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Entities\\Campaign.cs",
+              "RelativeToolTip": "Entities\\Campaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:56:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\IGameManager.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IGameManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\IGameManager.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IGameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:50:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\GameManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\GameManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\GameManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\GameManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:50:15.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameDal.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Abstracts\\IGameDal.cs",
+              "RelativeDocumentMoniker": "DataAcces\\Abstracts\\IGameDal.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Abstracts\\IGameDal.cs",
+              "RelativeToolTip": "DataAcces\\Abstracts\\IGameDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:40:32.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameDal.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Concrete\\GameDal.cs",
+              "RelativeDocumentMoniker": "DataAcces\\Concrete\\GameDal.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Concrete\\GameDal.cs",
+              "RelativeToolTip": "DataAcces\\Concrete\\GameDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:40:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EDevlet.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\EDevlet.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\EDevlet.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\EDevlet.cs",
+              "RelativeToolTip": "Business\\Concrete\\EDevlet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:02:55.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEDevlet.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\IEDevlet.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IEDevlet.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\IEDevlet.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IEDevlet.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:31:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGamerManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\IGamerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IGamerManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Abstracts\\IGamerManager.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IGamerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:57:00.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamerManager.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\GamerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\GamerManager.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Business\\Concrete\\GamerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\GamerManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:18:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GamerDal.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Concrete\\GamerDal.cs",
+              "RelativeDocumentMoniker": "DataAcces\\Concrete\\GamerDal.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Concrete\\GamerDal.cs",
+              "RelativeToolTip": "DataAcces\\Concrete\\GamerDal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:46:07.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGamerDal.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Abstracts\\IGamerDal.cs",
+              "RelativeDocumentMoniker": "DataAcces\\Abstracts\\IGamerDal.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\DataAcces\\Abstracts\\IGamerDal.cs",
+              "RelativeToolTip": "DataAcces\\Abstracts\\IGamerDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:54:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Interface\\GameBackendSimulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:31:15.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
